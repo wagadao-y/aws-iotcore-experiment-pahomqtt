@@ -1,0 +1,1 @@
+paho-mqttを使ってAWS IoT CoreにPub/Subするだけのスクリプトです。
